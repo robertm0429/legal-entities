@@ -1,0 +1,49 @@
+Entity Code,Entity Name,Attribute Name,Attribute Value,Value Type,Is Primary,Category,Effective Date,Comments
+CBG001,ConsumerBrands Global Inc.,Market Cap,400000000000,Number,TRUE,Financial,2024-12-31,Market capitalization in USD
+CBG001,ConsumerBrands Global Inc.,Stock Exchange,NYSE,Text,TRUE,Regulatory,1837-01-01,Listed on New York Stock Exchange
+CBG001,ConsumerBrands Global Inc.,Stock Ticker,CBG,Text,TRUE,Regulatory,1837-01-01,NYSE ticker symbol
+CBG001,ConsumerBrands Global Inc.,Total Employees,110000,Number,TRUE,Operational,2024-12-31,Global employee count
+CBG001,ConsumerBrands Global Inc.,Annual Revenue,85000000000,Number,TRUE,Financial,2024-06-30,FY2024 net sales
+CBG001,ConsumerBrands Global Inc.,Number of Brands,65,Number,TRUE,Business,2024-12-31,Total brand portfolio
+CBG001,ConsumerBrands Global Inc.,Billion Dollar Brands,25,Number,TRUE,Business,2024-12-31,Brands with >$1B annual sales
+CBG001,ConsumerBrands Global Inc.,Countries Sold,180,Number,TRUE,Operational,2024-12-31,Global market presence
+CBG001,ConsumerBrands Global Inc.,Manufacturing Sites,110,Number,TRUE,Operational,2024-12-31,Global manufacturing facilities
+CBG001,ConsumerBrands Global Inc.,R&D Investment,2200000000,Number,TRUE,Financial,2024-06-30,Annual R&D spending
+CBG001,ConsumerBrands Global Inc.,Advertising Spend,8000000000,Number,TRUE,Financial,2024-06-30,Global advertising investment
+CBBC001,ConsumerBrands Beauty Care Inc.,Segment Revenue,14000000000,Number,TRUE,Financial,2024-06-30,Beauty segment net sales
+CBBC001,ConsumerBrands Beauty Care Inc.,Number of Brands,12,Number,TRUE,Business,2024-12-31,Beauty brand portfolio
+CBBC001,ConsumerBrands Beauty Care Inc.,Market Share,20%,Text,TRUE,Business,2024-12-31,Global beauty market share
+CBHC001,ConsumerBrands Home Care LLC,Segment Revenue,22000000000,Number,TRUE,Financial,2024-06-30,Home care segment net sales
+CBHC001,ConsumerBrands Home Care LLC,Number of Brands,15,Number,TRUE,Business,2024-12-31,Home care brand portfolio
+CBHC001,ConsumerBrands Home Care LLC,Leading Markets,45,Number,TRUE,Business,2024-12-31,#1 or #2 market position
+CBHH001,ConsumerBrands Health Holdings Inc.,Segment Revenue,11000000000,Number,TRUE,Financial,2024-06-30,Health care segment net sales
+CBHH001,ConsumerBrands Health Holdings Inc.,OTC Brands,8,Number,TRUE,Business,2024-12-31,Over-the-counter brands
+CBBF001,ConsumerBrands Baby & Family Care Corp,Segment Revenue,18000000000,Number,TRUE,Financial,2024-06-30,Baby & family care net sales
+CBBF001,ConsumerBrands Baby & Family Care Corp,Diaper Market Share,30%,Text,TRUE,Business,2024-12-31,Global diaper market share
+CBFH001,ConsumerBrands Fabric & Home Care LLC,Segment Revenue,20000000000,Number,TRUE,Financial,2024-06-30,Fabric & home care net sales
+CBFH001,ConsumerBrands Fabric & Home Care LLC,Detergent Market Share,25%,Text,TRUE,Business,2024-12-31,Global laundry detergent share
+CBGR001,ConsumerBrands Grooming Inc.,Market Share,70%,Text,TRUE,Business,2024-12-31,Global razor market share
+CBGR001,ConsumerBrands Grooming Inc.,Annual Revenue,7000000000,Number,TRUE,Financial,2024-06-30,Grooming products revenue
+CBNA001,ConsumerBrands North America LLC,Regional Revenue,35000000000,Number,TRUE,Financial,2024-06-30,North America net sales
+CBNA001,ConsumerBrands North America LLC,Employee Count,35000,Number,TRUE,Operational,2024-12-31,North America employees
+CBEU001,ConsumerBrands Europe SA,Regional Revenue,22000000000,Number,TRUE,Financial,2024-06-30,Europe net sales
+CBEU001,ConsumerBrands Europe SA,Employee Count,25000,Number,TRUE,Operational,2024-12-31,European employees
+CBAP001,ConsumerBrands Asia Pacific Pte Ltd,Regional Revenue,20000000000,Number,TRUE,Financial,2024-06-30,Asia Pacific net sales
+CBAP001,ConsumerBrands Asia Pacific Pte Ltd,Employee Count,35000,Number,TRUE,Operational,2024-12-31,APAC employees
+CBLA001,ConsumerBrands Latin America Ltda,Regional Revenue,8000000000,Number,TRUE,Financial,2024-06-30,Latin America net sales
+CBLA001,ConsumerBrands Latin America Ltda,Employee Count,15000,Number,TRUE,Operational,2024-12-31,LATAM employees
+CBCN001,ConsumerBrands China Co. Ltd.,Market Growth Rate,8%,Text,TRUE,Business,2024-12-31,Annual growth rate
+CBCN001,ConsumerBrands China Co. Ltd.,E-commerce Share,35%,Text,TRUE,Business,2024-12-31,Online sales percentage
+CBIN001,ConsumerBrands India Private Limited,Distribution Points,6000000,Number,TRUE,Operational,2024-12-31,Retail outlets served
+CBIN001,ConsumerBrands India Private Limited,Rural Reach,60%,Text,TRUE,Business,2024-12-31,Rural market penetration
+CBINN001,ConsumerBrands Innovation LLC,Patents Held,5000,Number,TRUE,IP,2024-12-31,Active patent portfolio
+CBINN001,ConsumerBrands Innovation LLC,Innovation Centers,28,Number,TRUE,Operational,2024-12-31,Global R&D locations
+CBINN001,ConsumerBrands Innovation LLC,Scientists & Researchers,8000,Number,TRUE,Operational,2024-12-31,R&D personnel
+CBSC001,ConsumerBrands Global Supply Chain Inc.,Distribution Centers,150,Number,TRUE,Operational,2024-12-31,Global distribution network
+CBSC001,ConsumerBrands Global Supply Chain Inc.,Supply Chain Efficiency,98%,Text,TRUE,Operational,2024-12-31,On-time delivery rate
+CBEC001,ConsumerBrands Digital Commerce LLC,E-commerce Sales,10000000000,Number,TRUE,Financial,2024-06-30,Digital channel revenue
+CBEC001,ConsumerBrands Digital Commerce LLC,Digital Marketing ROI,4.5,Number,TRUE,Business,2024-12-31,Return on digital investment
+CBVC001,ConsumerBrands Ventures Inc.,Portfolio Companies,25,Number,TRUE,Business,2024-12-31,Startup investments
+CBVC001,ConsumerBrands Ventures Inc.,Fund Size,500000000,Number,TRUE,Financial,2024-12-31,Venture capital fund
+CBIP001,ConsumerBrands IP Holdings B.V.,Trademark Portfolio,10000,Number,TRUE,IP,2024-12-31,Global trademark registrations
+CBIP001,ConsumerBrands IP Holdings B.V.,Brand Valuation,100000000000,Number,TRUE,Financial,2024-12-31,Total brand portfolio value

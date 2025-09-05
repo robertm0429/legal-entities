@@ -1,0 +1,36 @@
+Entity Code,Entity Name,Attribute Name,Attribute Value,Value Type,Is Primary,Category,Effective Date,Comments
+TGHI001,TechGlobal Holdings Inc.,Public Company,TRUE,Boolean,TRUE,Regulatory,2014-01-01,Listed on NASDAQ
+TGHI001,TechGlobal Holdings Inc.,Stock Exchange,NASDAQ,Text,TRUE,Regulatory,2014-01-01,Primary listing
+TGHI001,TechGlobal Holdings Inc.,Market Cap,15000000000,Number,TRUE,Financial,2024-12-31,Market capitalization in USD
+TGHI001,TechGlobal Holdings Inc.,Employee Count,50000,Number,TRUE,Operational,2024-12-31,Global employee count
+TGUS001,TechGlobal USA Inc.,Primary Operating Entity,TRUE,Boolean,TRUE,Business,2014-02-01,Main US operations
+TGUS001,TechGlobal USA Inc.,Employee Count,15000,Number,TRUE,Operational,2024-12-31,US employee count
+TGUS001,TechGlobal USA Inc.,Revenue USD,2500000000,Number,TRUE,Financial,2024-12-31,Annual revenue
+TGUK001,TechGlobal UK Limited,Brexit Impact Entity,TRUE,Boolean,TRUE,Regulatory,2016-06-23,Affected by Brexit regulations
+TGUK001,TechGlobal UK Limited,Employee Count,3500,Number,TRUE,Operational,2024-12-31,UK employee count
+TGUK001,TechGlobal UK Limited,GDPR Compliance,TRUE,Boolean,TRUE,Regulatory,2018-05-25,GDPR compliant
+TGDE001,TechGlobal Germany GmbH,GDPR Compliance,TRUE,Boolean,TRUE,Regulatory,2018-05-25,GDPR compliant
+TGDE001,TechGlobal Germany GmbH,Employee Count,2000,Number,TRUE,Operational,2024-12-31,German employee count
+TGFR001,TechGlobal France SAS,GDPR Compliance,TRUE,Boolean,TRUE,Regulatory,2018-05-25,GDPR compliant
+TGFR001,TechGlobal France SAS,Employee Count,1500,Number,TRUE,Operational,2024-12-31,French employee count
+TGJP001,TechGlobal Japan K.K.,Employee Count,2500,Number,TRUE,Operational,2024-12-31,Japanese employee count
+TGJP001,TechGlobal Japan K.K.,Local Partnership Required,FALSE,Boolean,TRUE,Regulatory,2017-02-01,Wholly foreign owned
+TGCN001,TechGlobal China Co. Ltd.,Employee Count,8000,Number,TRUE,Operational,2024-12-31,Chinese employee count
+TGCN001,TechGlobal China Co. Ltd.,Data Localization,TRUE,Boolean,TRUE,Regulatory,2017-06-01,China data residency requirements
+TGCN001,TechGlobal China Co. Ltd.,ICP License,ICP-001234567,Text,TRUE,Regulatory,2018-01-01,Internet Content Provider license
+TGIN001,TechGlobal India Private Limited,Employee Count,12000,Number,TRUE,Operational,2024-12-31,Indian employee count
+TGIN001,TechGlobal India Private Limited,Software Export Focus,TRUE,Boolean,TRUE,Business,2018-01-15,Software export operations
+TGSS001,TechGlobal Shared Services Pvt Ltd,Employee Count,5000,Number,TRUE,Operational,2024-12-31,Shared services team size
+TGSS001,TechGlobal Shared Services Pvt Ltd,Service Categories,Finance HR IT,Text,TRUE,Business,2019-03-01,Services provided globally
+TGAU001,TechGlobal Australia Pty Ltd,Employee Count,800,Number,TRUE,Operational,2024-12-31,Australian employee count
+TGBR001,TechGlobal Brasil Ltda.,Employee Count,1200,Number,TRUE,Operational,2024-12-31,Brazilian employee count
+TGMX001,TechGlobal Mexico S.A. de C.V.,Local Partner Required,TRUE,Boolean,TRUE,Regulatory,2020-02-01,1% local ownership required
+TGIP001,TechGlobal IP Holdings Limited,Patent Portfolio Size,2500,Number,TRUE,IP,2024-12-31,Number of patents owned
+TGIP001,TechGlobal IP Holdings Limited,Trademark Count,150,Number,TRUE,IP,2024-12-31,Number of trademarks
+TGIP001,TechGlobal IP Holdings Limited,IP Licensing Revenue,500000000,Number,TRUE,Financial,2024-12-31,Annual IP licensing revenue
+TGFN001,TechGlobal Finance B.V.,Treasury Function,TRUE,Boolean,TRUE,Business,2017-01-01,Central treasury operations
+TGFN001,TechGlobal Finance B.V.,Intercompany Loan Volume,1500000000,Number,TRUE,Financial,2024-12-31,Total intercompany loans outstanding
+TGRD001,TechGlobal Research Labs Inc.,R&D Investment,200000000,Number,TRUE,Financial,2024-12-31,Annual R&D spending
+TGRD001,TechGlobal Research Labs Inc.,Patent Applications,300,Number,TRUE,IP,2024-12-31,Patents filed annually
+TGRE001,TechGlobal Real Estate Holdings LLC,Property Count,25,Number,TRUE,Real Estate,2024-12-31,Number of properties owned
+TGRE001,TechGlobal Real Estate Holdings LLC,Total Square Footage,2500000,Number,TRUE,Real Estate,2024-12-31,Total office space in sq ft

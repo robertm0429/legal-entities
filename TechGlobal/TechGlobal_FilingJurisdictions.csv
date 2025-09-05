@@ -1,0 +1,26 @@
+Entity Code,Entity Name,Jurisdiction,Region,Filing Group,Tax Engine Code,Parent Tax Engine Code,Filing Hierarchy Level,VAT Id,Local Tax Number,Is Leader,Tax Type,Filing Frequency
+TGHI001,TechGlobal Holdings Inc.,USA,North America,US Consolidated,US-TGHI001,N/A,1,N/A,47-1234567,TRUE,Corporate Income Tax,Annual
+TGAM001,TechGlobal Americas Holdings LLC,USA,North America,US Consolidated,US-TGAM001,US-TGHI001,2,N/A,47-2345678,FALSE,Corporate Income Tax,Annual
+TGUS001,TechGlobal USA Inc.,USA,North America,US Consolidated,US-TGUS001,US-TGAM001,3,N/A,47-3456789,FALSE,Corporate Income Tax,Annual
+TGUS001,TechGlobal USA Inc.,California,North America,CA State,CA-TGUS001,N/A,1,N/A,123-456-789,TRUE,State Income Tax,Annual
+TGCA001,TechGlobal Canada Inc.,Canada,North America,CA Federal,CA-TGCA001,N/A,1,123456789RT0001,123456789,TRUE,Corporate Income Tax,Annual
+TGCA001,TechGlobal Canada Inc.,Ontario,North America,ON Provincial,ON-TGCA001,CA-TGCA001,2,N/A,1234567890,FALSE,Provincial Tax,Annual
+TGUK001,TechGlobal UK Limited,United Kingdom,Europe,UK Group,UK-TGUK001,N/A,1,GB123456789,12345678,TRUE,Corporation Tax,Annual
+TGEM001,TechGlobal EMEA Holdings Limited,United Kingdom,Europe,UK Group,UK-TGEM001,UK-TGUK001,2,GB987654321,87654321,FALSE,Corporation Tax,Annual
+TGDE001,TechGlobal Germany GmbH,Germany,Europe,DE Standalone,DE-TGDE001,N/A,1,DE123456789,123/456/78901,TRUE,Corporate Income Tax,Annual
+TGDE001,TechGlobal Germany GmbH,Germany,Europe,DE VAT,DE-VAT001,N/A,1,DE123456789,123456789,TRUE,VAT,Monthly
+TGFR001,TechGlobal France SAS,France,Europe,FR Standalone,FR-TGFR001,N/A,1,FR12345678901,12345678901,TRUE,Corporate Income Tax,Annual
+TGFR001,TechGlobal France SAS,France,Europe,FR VAT,FR-VAT001,N/A,1,FR12345678901,12345678901,TRUE,VAT,Monthly
+TGJP001,TechGlobal Japan K.K.,Japan,Asia Pacific,JP Standalone,JP-TGJP001,N/A,1,N/A,1234567890123,TRUE,Corporate Tax,Annual
+TGAP001,TechGlobal APAC Holdings Pte Ltd,Singapore,Asia Pacific,SG Standalone,SG-TGAP001,N/A,1,N/A,123456789A,TRUE,Corporate Income Tax,Annual
+TGCN001,TechGlobal China Co. Ltd.,China,Asia Pacific,CN Standalone,CN-TGCN001,N/A,1,N/A,91110000123456789X,TRUE,Corporate Income Tax,Annual
+TGCN001,TechGlobal China Co. Ltd.,China,Asia Pacific,CN VAT,CN-VAT001,N/A,1,N/A,91110000123456789X,TRUE,VAT,Monthly
+TGIN001,TechGlobal India Private Limited,India,Asia Pacific,IN Standalone,IN-TGIN001,N/A,1,29ABCDE1234F1Z5,ABCDE1234F,TRUE,Corporate Income Tax,Annual
+TGSS001,TechGlobal Shared Services Pvt Ltd,India,Asia Pacific,IN Group,IN-TGSS001,IN-TGIN001,2,29ABCDE5678G1Z5,ABCDE5678G,FALSE,Corporate Income Tax,Annual
+TGAU001,TechGlobal Australia Pty Ltd,Australia,Asia Pacific,AU Standalone,AU-TGAU001,N/A,1,N/A,12 345 678 901,TRUE,Corporate Income Tax,Annual
+TGBR001,TechGlobal Brasil Ltda.,Brazil,South America,BR Standalone,BR-TGBR001,N/A,1,N/A,12.345.678/0001-90,TRUE,Corporate Income Tax,Annual
+TGMX001,TechGlobal Mexico S.A. de C.V.,Mexico,North America,MX Standalone,MX-TGMX001,N/A,1,N/A,ABC123456789,TRUE,Corporate Income Tax,Annual
+TGIP001,TechGlobal IP Holdings Limited,Ireland,Europe,IE Standalone,IE-TGIP001,N/A,1,IE1234567T,1234567T,TRUE,Corporation Tax,Annual
+TGFN001,TechGlobal Finance B.V.,Netherlands,Europe,NL Standalone,NL-TGFN001,N/A,1,NL123456789B01,123456789,TRUE,Corporate Income Tax,Annual
+TGRD001,TechGlobal Research Labs Inc.,USA,North America,US Consolidated,US-TGRD001,US-TGUS001,4,N/A,47-4567890,FALSE,Corporate Income Tax,Annual
+TGRE001,TechGlobal Real Estate Holdings LLC,USA,North America,US Consolidated,US-TGRE001,US-TGHI001,2,N/A,47-5678901,FALSE,Corporate Income Tax,Annual

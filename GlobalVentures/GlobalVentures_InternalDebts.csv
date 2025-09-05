@@ -1,0 +1,20 @@
+Creditor Entity Code,Creditor Entity Name,Debtor Entity Code,Debtor Entity Name,Transaction Type,Principal Amount,Currency,Interest Rate,Effective Date,Maturity Date,Purpose,Filing Period,Status
+GVI001,GlobalVentures Insurance Company,GVH001,GlobalVentures Holdings Inc.,Insurance Float Investment,5000000000,USD,0%,Ongoing,N/A,Insurance float for investment activities,2024,Active
+GVR001,GlobalVentures Reinsurance Ltd,GVH001,GlobalVentures Holdings Inc.,Reinsurance Float Investment,3000000000,USD,0%,Ongoing,N/A,Reinsurance float for investments,2024,Active
+GVA001,GlobalVentures Auto Insurance Corp,GVH001,GlobalVentures Holdings Inc.,Auto Insurance Float,2000000000,USD,0%,Ongoing,N/A,Auto insurance float,2024,Active
+GVH001,GlobalVentures Holdings Inc.,GVT001,GlobalVentures Transportation Systems Inc.,Acquisition Loan,25000000000,USD,3.5%,2010-02-01,2030-02-01,Railroad acquisition financing,2024,Active
+GVH001,GlobalVentures Holdings Inc.,GVAC001,GlobalVentures Aerospace Components Corp,Acquisition Loan,15000000000,USD,4.0%,2016-01-15,2036-01-15,Aerospace company acquisition,2024,Active
+GVH001,GlobalVentures Holdings Inc.,GVE001,GlobalVentures Energy Holdings LLC,Capital Investment,8000000000,USD,2.5%,1999-07-01,2029-07-01,Energy infrastructure investment,2024,Active
+GVIM001,GlobalVentures Investment Management LLC,GVM001,GlobalVentures Manufacturing Group Inc.,Investment Capital,5000000000,USD,3.0%,2010-01-01,2030-01-01,Manufacturing expansion capital,2024,Active
+GVIM001,GlobalVentures Investment Management LLC,GVRH001,GlobalVentures Retail Holdings Inc.,Investment Capital,2000000000,USD,3.2%,2010-01-01,2030-01-01,Retail acquisition capital,2024,Active
+GVE001,GlobalVentures Energy Holdings LLC,GVRE001,GlobalVentures Renewables LLC,Development Loan,500000000,USD,2.0%,2008-01-01,2028-01-01,Renewable energy development,2024,Active
+GVM001,GlobalVentures Manufacturing Group Inc.,GVCH001,GlobalVentures Chemical Corporation,Acquisition Financing,4000000000,USD,3.8%,2011-03-01,2031-03-01,Chemical company acquisition,2024,Active
+GVRH001,GlobalVentures Retail Holdings Inc.,GVIC001,GlobalVentures Ice Cream International Inc.,Franchise Development,300000000,USD,4.5%,1998-01-01,2028-01-01,Franchise expansion financing,2024,Active
+GVH001,GlobalVentures Holdings Inc.,GVBT001,GlobalVentures Battery Technologies Inc.,Acquisition Loan,2800000000,USD,4.2%,2016-03-01,2036-03-01,Duracell acquisition equivalent,2024,Active
+GVI001,GlobalVentures Insurance Company,GVUK001,GlobalVentures Insurance UK Ltd,Expansion Capital,500000000,GBP,3.0%,2012-09-01,2032-09-01,UK market expansion,2024,Active
+GVE001,GlobalVentures Energy Holdings LLC,GVCA001,GlobalVentures Energy Canada Inc.,Pipeline Development,1000000000,CAD,3.5%,2013-06-01,2033-06-01,Canadian pipeline development,2024,Active
+GVH001,GlobalVentures Holdings Inc.,GVJP001,GlobalVentures Trading Japan KK,Investment Capital,50000000000,JPY,1.5%,2020-08-01,2040-08-01,Japanese market investment,2024,Active
+GVIM001,GlobalVentures Investment Management LLC,Various Entities,Portfolio Companies,Marketable Securities,25000000000,USD,Variable,Ongoing,N/A,Stock portfolio investments,2024,Active
+GVH001,GlobalVentures Holdings Inc.,GVH001,GlobalVentures Holdings Inc.,Treasury Stock Buyback,10000000000,USD,N/A,2020-01-01,N/A,Share repurchase program,2024,Active
+GVI001,GlobalVentures Insurance Company,Various,Third Party Investments,Bond Portfolio,15000000000,USD,3.5%,Ongoing,Various,Fixed income investments,2024,Active
+GVR001,GlobalVentures Reinsurance Ltd,Various,Third Party Investments,Catastrophe Bonds,2000000000,USD,6.0%,Ongoing,Various,Cat bond investments,2024,Active

@@ -1,0 +1,41 @@
+Entity Code,Entity Name,Attribute Name,Attribute Value,Value Type,Is Primary,Category,Effective Date,Comments
+GVH001,GlobalVentures Holdings Inc.,Market Cap,750000000000,Number,TRUE,Financial,2024-12-31,Market capitalization in USD
+GVH001,GlobalVentures Holdings Inc.,Stock Exchange,NYSE,Text,TRUE,Regulatory,1965-01-01,Listed on New York Stock Exchange
+GVH001,GlobalVentures Holdings Inc.,Stock Symbol,GVH,Text,TRUE,Regulatory,1965-01-01,NYSE ticker symbol
+GVH001,GlobalVentures Holdings Inc.,Total Employees,390000,Number,TRUE,Operational,2024-12-31,Global employee count across all subsidiaries
+GVH001,GlobalVentures Holdings Inc.,Annual Revenue,300000000000,Number,TRUE,Financial,2024-12-31,Consolidated annual revenue
+GVH001,GlobalVentures Holdings Inc.,Insurance Float,10000000000,Number,TRUE,Financial,2024-12-31,Total insurance float available for investment
+GVH001,GlobalVentures Holdings Inc.,Investment Portfolio Value,250000000000,Number,TRUE,Financial,2024-12-31,Total marketable securities portfolio
+GVH001,GlobalVentures Holdings Inc.,Cash Position,150000000000,Number,TRUE,Financial,2024-12-31,Cash and cash equivalents
+GVI001,GlobalVentures Insurance Company,Premium Volume,15000000000,Number,TRUE,Financial,2024-12-31,Annual insurance premiums
+GVI001,GlobalVentures Insurance Company,Combined Ratio,95,Number,TRUE,Operational,2024-12-31,Insurance operational efficiency
+GVI001,GlobalVentures Insurance Company,Employee Count,25000,Number,TRUE,Operational,2024-12-31,Insurance division employees
+GVR001,GlobalVentures Reinsurance Ltd,Premium Volume,8000000000,Number,TRUE,Financial,2024-12-31,Annual reinsurance premiums
+GVR001,GlobalVentures Reinsurance Ltd,Geographic Coverage,Global,Text,TRUE,Operational,2024-12-31,Worldwide reinsurance operations
+GVA001,GlobalVentures Auto Insurance Corp,Policies In Force,6000000,Number,TRUE,Operational,2024-12-31,Number of active auto policies
+GVA001,GlobalVentures Auto Insurance Corp,Market Share,8.5%,Text,TRUE,Business,2024-12-31,US auto insurance market share
+GVT001,GlobalVentures Transportation Systems Inc.,Track Miles,32500,Number,TRUE,Operational,2024-12-31,Total railroad track miles
+GVT001,GlobalVentures Transportation Systems Inc.,Locomotives,8000,Number,TRUE,Operational,2024-12-31,Number of locomotives
+GVT001,GlobalVentures Transportation Systems Inc.,Employee Count,45000,Number,TRUE,Operational,2024-12-31,Railroad employees
+GVT001,GlobalVentures Transportation Systems Inc.,Annual Carloads,12000000,Number,TRUE,Operational,2024-12-31,Freight cars moved annually
+GVE001,GlobalVentures Energy Holdings LLC,Generating Capacity MW,25000,Number,TRUE,Operational,2024-12-31,Total power generation capacity
+GVE001,GlobalVentures Energy Holdings LLC,Pipeline Miles,15000,Number,TRUE,Operational,2024-12-31,Natural gas pipeline network
+GVE001,GlobalVentures Energy Holdings LLC,Renewable Capacity MW,5000,Number,TRUE,Operational,2024-12-31,Solar and wind capacity
+GVAC001,GlobalVentures Aerospace Components Corp,Annual Revenue,10000000000,Number,TRUE,Financial,2024-12-31,Aerospace components revenue
+GVAC001,GlobalVentures Aerospace Components Corp,Boeing Supplier Tier,1,Number,TRUE,Business,2024-12-31,Primary Boeing supplier
+GVAC001,GlobalVentures Aerospace Components Corp,Airbus Supplier Tier,1,Number,TRUE,Business,2024-12-31,Primary Airbus supplier
+GVCH001,GlobalVentures Chemical Corporation,Product Lines,1500,Number,TRUE,Operational,2024-12-31,Number of chemical products
+GVCH001,GlobalVentures Chemical Corporation,R&D Investment,500000000,Number,TRUE,Financial,2024-12-31,Annual R&D spending
+GVFR001,GlobalVentures Furniture Stores Inc.,Store Count,350,Number,TRUE,Operational,2024-12-31,Number of retail locations
+GVFR001,GlobalVentures Furniture Stores Inc.,States Present,48,Number,TRUE,Operational,2024-12-31,US state coverage
+GVCD001,GlobalVentures Candies Inc.,Store Count,250,Number,TRUE,Operational,2024-12-31,Candy store locations
+GVCD001,GlobalVentures Candies Inc.,Annual Production Pounds,26000000,Number,TRUE,Operational,2024-12-31,Pounds of candy produced
+GVIC001,GlobalVentures Ice Cream International Inc.,Franchise Locations,7000,Number,TRUE,Operational,2024-12-31,Global franchise count
+GVIC001,GlobalVentures Ice Cream International Inc.,Countries Present,25,Number,TRUE,Operational,2024-12-31,International presence
+GVPJ001,GlobalVentures Aviation Services Inc.,Aircraft Fleet,750,Number,TRUE,Operational,2024-12-31,Total aircraft in fleet
+GVPJ001,GlobalVentures Aviation Services Inc.,Fractional Owners,8000,Number,TRUE,Business,2024-12-31,Number of fractional ownership clients
+GVBT001,GlobalVentures Battery Technologies Inc.,Market Share,25%,Text,TRUE,Business,2024-12-31,US alkaline battery market share
+GVBT001,GlobalVentures Battery Technologies Inc.,Annual Units Sold,3000000000,Number,TRUE,Operational,2024-12-31,Battery units sold annually
+GVIM001,GlobalVentures Investment Management LLC,AUM,250000000000,Number,TRUE,Financial,2024-12-31,Assets under management
+GVIM001,GlobalVentures Investment Management LLC,Portfolio Companies,50,Number,TRUE,Business,2024-12-31,Major stock positions
+GVIM001,GlobalVentures Investment Management LLC,Investment Team Size,25,Number,TRUE,Operational,2024-12-31,Investment professionals

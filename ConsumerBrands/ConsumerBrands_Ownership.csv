@@ -1,0 +1,34 @@
+Owner Entity Code,Owner Entity Name,Owned Entity Code,Owned Entity Name,Percent Owned,Share Class,Shares Held,Entry As Shareholder Date,Is Primary Owner,Ownership Type,Comments
+,Public Shareholders,CBG001,ConsumerBrands Global Inc.,70%,Common Stock,700000000,1837-01-01,TRUE,Public Float,NYSE listed - ticker CBG
+,Institutional Investors,CBG001,ConsumerBrands Global Inc.,25%,Common Stock,250000000,Various,FALSE,Institutional,Major funds and pension holdings
+,Management & Employees,CBG001,ConsumerBrands Global Inc.,5%,Common Stock,50000000,Various,FALSE,ESOP & Options,Employee stock ownership plan
+CBG001,ConsumerBrands Global Inc.,CBNA001,ConsumerBrands North America LLC,100%,Membership Interest,100,1950-06-01,TRUE,Wholly Owned,North American regional HQ
+CBG001,ConsumerBrands Global Inc.,CBEU001,ConsumerBrands Europe SA,100%,Common Stock,1000000,1963-03-15,TRUE,Wholly Owned,European regional HQ
+CBG001,ConsumerBrands Global Inc.,CBAP001,ConsumerBrands Asia Pacific Pte Ltd,100%,Ordinary Shares,1000000,1985-09-01,TRUE,Wholly Owned,Asia Pacific regional HQ
+CBG001,ConsumerBrands Global Inc.,CBLA001,ConsumerBrands Latin America Ltda,100%,Quotas,1000000,1988-04-01,TRUE,Wholly Owned,Latin American regional HQ
+CBG001,ConsumerBrands Global Inc.,CBBC001,ConsumerBrands Beauty Care Inc.,100%,Common Stock,10000000,1990-01-01,TRUE,Wholly Owned,Beauty care division
+CBG001,ConsumerBrands Global Inc.,CBHC001,ConsumerBrands Home Care LLC,100%,Membership Interest,100,1945-07-01,TRUE,Wholly Owned,Home care division
+CBG001,ConsumerBrands Global Inc.,CBHH001,ConsumerBrands Health Holdings Inc.,100%,Common Stock,5000000,1985-11-01,TRUE,Wholly Owned,Health care division
+CBG001,ConsumerBrands Global Inc.,CBBF001,ConsumerBrands Baby & Family Care Corp,100%,Common Stock,5000000,1961-08-01,TRUE,Wholly Owned,Baby care division
+CBG001,ConsumerBrands Global Inc.,CBFH001,ConsumerBrands Fabric & Home Care LLC,100%,Membership Interest,100,1946-03-01,TRUE,Wholly Owned,Fabric care division
+CBBC001,ConsumerBrands Beauty Care Inc.,CBPB001,Prestige Beauty Brands Inc.,100%,Common Stock,1000000,2016-07-01,TRUE,Wholly Owned,Luxury beauty subsidiary
+CBBC001,ConsumerBrands Beauty Care Inc.,CBHAIR001,ConsumerBrands Hair Care International LLC,100%,Membership Interest,100,1945-06-01,TRUE,Wholly Owned,Hair care brands
+CBHH001,ConsumerBrands Health Holdings Inc.,CBOC001,ConsumerBrands Oral Care Inc.,100%,Common Stock,1000000,1955-01-01,TRUE,Wholly Owned,Oral care products
+CBBC001,ConsumerBrands Beauty Care Inc.,CBGR001,ConsumerBrands Grooming Inc.,100%,Common Stock,2000000,1901-09-01,TRUE,Wholly Owned,Grooming products
+CBEU001,ConsumerBrands Europe SA,CBUK001,ConsumerBrands UK Limited,100%,Ordinary Shares,10000000,1930-05-01,TRUE,Wholly Owned,UK subsidiary
+CBEU001,ConsumerBrands Europe SA,CBDE001,ConsumerBrands Deutschland GmbH,100%,Shares,25000,1960-01-15,TRUE,Wholly Owned,German subsidiary
+CBEU001,ConsumerBrands Europe SA,CBFR001,ConsumerBrands France SAS,100%,Shares,100000,1954-04-01,TRUE,Wholly Owned,French subsidiary
+CBAP001,ConsumerBrands Asia Pacific Pte Ltd,CBJP001,ConsumerBrands Japan K.K.,100%,Common Stock,10000,1973-07-01,TRUE,Wholly Owned,Japanese subsidiary
+CBAP001,ConsumerBrands Asia Pacific Pte Ltd,CBCN001,ConsumerBrands China Co. Ltd.,100%,Shares,10000000,1988-10-01,TRUE,Wholly Owned,Chinese subsidiary
+CBAP001,ConsumerBrands Asia Pacific Pte Ltd,CBIN001,ConsumerBrands India Private Limited,100%,Equity Shares,100000,1964-01-01,TRUE,Wholly Owned,Indian subsidiary
+CBNA001,ConsumerBrands North America LLC,CBMF001,ConsumerBrands Manufacturing Ohio LLC,100%,Membership Interest,100,1920-01-01,TRUE,Wholly Owned,Ohio manufacturing
+CBLA001,ConsumerBrands Latin America Ltda,CBMX001,ConsumerBrands Manufacturing Mexico S.A. de C.V.,99%,Common Stock,99000,1987-05-01,TRUE,Majority Owned,Mexican manufacturing
+,Local Mexican Partner,CBMX001,ConsumerBrands Manufacturing Mexico S.A. de C.V.,1%,Common Stock,1000,1987-05-01,FALSE,Local Requirement,Required local ownership
+CBCN001,ConsumerBrands China Co. Ltd.,CBMFCN001,ConsumerBrands Manufacturing Guangzhou Ltd,100%,Shares,1000000,1995-08-01,TRUE,Wholly Owned,China manufacturing
+CBG001,ConsumerBrands Global Inc.,CBINN001,ConsumerBrands Innovation LLC,100%,Membership Interest,100,2000-01-01,TRUE,Wholly Owned,Global R&D center
+CBG001,ConsumerBrands Global Inc.,CBSC001,ConsumerBrands Global Supply Chain Inc.,100%,Common Stock,1000000,2005-07-01,TRUE,Wholly Owned,Supply chain management
+CBLA001,ConsumerBrands Latin America Ltda,CBSS001,ConsumerBrands Shared Services Center LLC,100%,Membership Interest,100,2008-03-01,TRUE,Wholly Owned,Costa Rica shared services
+CBG001,ConsumerBrands Global Inc.,CBEC001,ConsumerBrands Digital Commerce LLC,100%,Membership Interest,100,2015-01-01,TRUE,Wholly Owned,E-commerce operations
+CBG001,ConsumerBrands Global Inc.,CBVC001,ConsumerBrands Ventures Inc.,100%,Common Stock,100000,2018-06-01,TRUE,Wholly Owned,Venture capital arm
+CBG001,ConsumerBrands Global Inc.,CBIP001,ConsumerBrands IP Holdings B.V.,100%,Shares,1000,2010-01-01,TRUE,Wholly Owned,IP holding company
+CBG001,ConsumerBrands Global Inc.,CBFIN001,ConsumerBrands Finance Luxembourg S.à r.l.,100%,Shares,1000,2012-03-01,TRUE,Wholly Owned,Finance subsidiary

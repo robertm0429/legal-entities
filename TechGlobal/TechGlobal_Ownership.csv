@@ -1,0 +1,22 @@
+Owner Entity Code,Owner Entity Name,Owned Entity Code,Owned Entity Name,Percent Owned,Share Class,Shares Held,Entry As Shareholder Date,Is Primary Owner,Ownership Type,Comments
+,External Shareholders,TGHI001,TechGlobal Holdings Inc.,100%,Common Stock,10000000,2014-01-01,TRUE,Public Ownership,Publicly traded parent company
+TGHI001,TechGlobal Holdings Inc.,TGAM001,TechGlobal Americas Holdings LLC,100%,Membership Interest,100,2014-06-01,TRUE,Subsidiary,Full ownership of Americas regional holding
+TGHI001,TechGlobal Holdings Inc.,TGEM001,TechGlobal EMEA Holdings Limited,100%,Ordinary Shares,1000000,2015-03-15,TRUE,Subsidiary,Full ownership of EMEA regional holding
+TGHI001,TechGlobal Holdings Inc.,TGAP001,TechGlobal APAC Holdings Pte Ltd,100%,Ordinary Shares,1000000,2015-09-01,TRUE,Subsidiary,Full ownership of APAC regional holding
+TGHI001,TechGlobal Holdings Inc.,TGIP001,TechGlobal IP Holdings Limited,100%,Ordinary Shares,1000,2015-12-01,TRUE,Subsidiary,Direct ownership of IP holding company
+TGHI001,TechGlobal Holdings Inc.,TGFN001,TechGlobal Finance B.V.,100%,Shares,1000,2017-01-01,TRUE,Subsidiary,Direct ownership of finance subsidiary
+TGHI001,TechGlobal Holdings Inc.,TGRE001,TechGlobal Real Estate Holdings LLC,100%,Membership Interest,100,2018-05-01,TRUE,Subsidiary,Direct ownership of real estate holding
+TGAM001,TechGlobal Americas Holdings LLC,TGUS001,TechGlobal USA Inc.,100%,Common Stock,10000,2014-02-01,TRUE,Subsidiary,Primary US operating company
+TGAM001,TechGlobal Americas Holdings LLC,TGCA001,TechGlobal Canada Inc.,100%,Common Shares,1000,2016-04-01,TRUE,Subsidiary,Canadian operating company
+TGAM001,TechGlobal Americas Holdings LLC,TGBR001,TechGlobal Brasil Ltda.,100%,Quotas,100000,2019-10-01,TRUE,Subsidiary,Brazilian operating company
+TGAM001,TechGlobal Americas Holdings LLC,TGMX001,TechGlobal Mexico S.A. de C.V.,99%,Common Stock,99000,2020-02-01,TRUE,Subsidiary,Mexican operating company with local partner
+,Local Partner Mexico,TGMX001,TechGlobal Mexico S.A. de C.V.,1%,Common Stock,1000,2020-02-01,FALSE,Local Partnership,Required local ownership in Mexico
+TGEM001,TechGlobal EMEA Holdings Limited,TGUK001,TechGlobal UK Limited,100%,Ordinary Shares,10000,2015-06-01,TRUE,Subsidiary,UK operating company
+TGEM001,TechGlobal EMEA Holdings Limited,TGDE001,TechGlobal Germany GmbH,100%,Shares,25000,2016-01-15,TRUE,Subsidiary,German operating company
+TGEM001,TechGlobal EMEA Holdings Limited,TGFR001,TechGlobal France SAS,100%,Shares,100000,2016-08-01,TRUE,Subsidiary,French operating company
+TGAP001,TechGlobal APAC Holdings Pte Ltd,TGJP001,TechGlobal Japan K.K.,100%,Common Stock,10000,2017-02-01,TRUE,Subsidiary,Japanese operating company
+TGAP001,TechGlobal APAC Holdings Pte Ltd,TGCN001,TechGlobal China Co. Ltd.,100%,Shares,1000000,2017-06-01,TRUE,Subsidiary,Chinese operating company
+TGAP001,TechGlobal APAC Holdings Pte Ltd,TGIN001,TechGlobal India Private Limited,100%,Equity Shares,100000,2018-01-15,TRUE,Subsidiary,Indian operating company
+TGAP001,TechGlobal APAC Holdings Pte Ltd,TGAU001,TechGlobal Australia Pty Ltd,100%,Ordinary Shares,100,2018-09-01,TRUE,Subsidiary,Australian operating company
+TGUS001,TechGlobal USA Inc.,TGRD001,TechGlobal Research Labs Inc.,100%,Common Stock,1000,2016-07-01,TRUE,Subsidiary,US R&D subsidiary under US operations
+TGIN001,TechGlobal India Private Limited,TGSS001,TechGlobal Shared Services Pvt Ltd,100%,Equity Shares,100000,2019-03-01,TRUE,Subsidiary,Shared services subsidiary under Indian operations

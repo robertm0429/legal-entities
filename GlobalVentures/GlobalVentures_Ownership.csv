@@ -1,0 +1,36 @@
+Owner Entity Code,Owner Entity Name,Owned Entity Code,Owned Entity Name,Percent Owned,Share Class,Shares Held,Entry As Shareholder Date,Is Primary Owner,Ownership Type,Comments
+,Public Shareholders,GVH001,GlobalVentures Holdings Inc.,60%,Class A Common,60000000,1965-01-01,TRUE,Public Float,Publicly traded on NYSE
+,Management & Founders,GVH001,GlobalVentures Holdings Inc.,40%,Class B Common,40000000,1965-01-01,FALSE,Founder Shares,Super-voting shares 10:1 voting rights
+GVH001,GlobalVentures Holdings Inc.,GVI001,GlobalVentures Insurance Company,100%,Common Stock,10000000,1967-06-01,TRUE,Wholly Owned,Core insurance subsidiary
+GVH001,GlobalVentures Holdings Inc.,GVR001,GlobalVentures Reinsurance Ltd,100%,Common Stock,5000000,1970-03-15,TRUE,Wholly Owned,Bermuda reinsurance operations
+GVH001,GlobalVentures Holdings Inc.,GVA001,GlobalVentures Auto Insurance Corp,100%,Common Stock,15000000,1996-01-01,TRUE,Wholly Owned,Acquired 1996
+GVH001,GlobalVentures Holdings Inc.,GVT001,GlobalVentures Transportation Systems Inc.,100%,Common Stock,50000000,2010-02-01,TRUE,Wholly Owned,Major railroad acquisition
+GVH001,GlobalVentures Holdings Inc.,GVE001,GlobalVentures Energy Holdings LLC,90%,Membership Interest,900000,1999-07-01,TRUE,Majority Owned,Energy holding company
+,Walter Energy Trust,GVE001,GlobalVentures Energy Holdings LLC,10%,Membership Interest,100000,1999-07-01,FALSE,Minority Partner,Original energy partner
+GVE001,GlobalVentures Energy Holdings LLC,GVEU001,GlobalVentures Electric Utility Co.,100%,Common Stock,1000000,2000-01-01,TRUE,Wholly Owned,Electric utility subsidiary
+GVE001,GlobalVentures Energy Holdings LLC,GVNG001,GlobalVentures Natural Gas Pipeline LLC,100%,Membership Interest,100,2002-06-01,TRUE,Wholly Owned,Pipeline subsidiary
+GVE001,GlobalVentures Energy Holdings LLC,GVRE001,GlobalVentures Renewables LLC,80%,Membership Interest,80,2008-01-01,TRUE,Majority Owned,Renewable energy JV
+,GreenTech Partners LLC,GVRE001,GlobalVentures Renewables LLC,20%,Membership Interest,20,2008-01-01,FALSE,Joint Venture,Renewable energy expertise
+GVH001,GlobalVentures Holdings Inc.,GVM001,GlobalVentures Manufacturing Group Inc.,100%,Common Stock,25000000,1972-01-01,TRUE,Wholly Owned,Manufacturing holding company
+GVM001,GlobalVentures Manufacturing Group Inc.,GVAC001,GlobalVentures Aerospace Components Corp,100%,Common Stock,10000000,2016-01-15,TRUE,Wholly Owned,Precision castparts acquisition
+GVM001,GlobalVentures Manufacturing Group Inc.,GVCH001,GlobalVentures Chemical Corporation,100%,Common Stock,5000000,2011-03-01,TRUE,Wholly Owned,Lubrizol-style acquisition
+GVM001,GlobalVentures Manufacturing Group Inc.,GVBP001,GlobalVentures Building Products Inc.,100%,Common Stock,2000000,1982-06-01,TRUE,Wholly Owned,Clayton Homes equivalent
+GVM001,GlobalVentures Manufacturing Group Inc.,GVTL001,GlobalVentures Industrial Tools LLC,100%,Membership Interest,100,1993-04-01,TRUE,Wholly Owned,Industrial tools subsidiary
+GVH001,GlobalVentures Holdings Inc.,GVRH001,GlobalVentures Retail Holdings Inc.,100%,Common Stock,10000000,1983-01-01,TRUE,Wholly Owned,Retail holding company
+GVRH001,GlobalVentures Retail Holdings Inc.,GVFR001,GlobalVentures Furniture Stores Inc.,100%,Common Stock,1000000,1983-05-01,TRUE,Wholly Owned,Furniture retail chain
+GVRH001,GlobalVentures Retail Holdings Inc.,GVJR001,GlobalVentures Jewelry Corp,100%,Common Stock,500000,1989-08-01,TRUE,Wholly Owned,Jewelry retail chain
+GVRH001,GlobalVentures Retail Holdings Inc.,GVCD001,GlobalVentures Candies Inc.,100%,Common Stock,250000,1972-01-01,TRUE,Wholly Owned,See's Candies equivalent
+GVRH001,GlobalVentures Retail Holdings Inc.,GVIC001,GlobalVentures Ice Cream International Inc.,80%,Common Stock,800000,1998-01-01,TRUE,Majority Owned,Dairy Queen equivalent
+,International Franchise Group,GVIC001,GlobalVentures Ice Cream International Inc.,20%,Common Stock,200000,1998-01-01,FALSE,Minority Partner,Franchise expertise partner
+GVRH001,GlobalVentures Retail Holdings Inc.,GVAP001,GlobalVentures Apparel Group LLC,100%,Membership Interest,100,2002-08-01,TRUE,Wholly Owned,Fruit of the Loom equivalent
+GVH001,GlobalVentures Holdings Inc.,GVPJ001,GlobalVentures Aviation Services Inc.,100%,Common Stock,1000000,1998-09-01,TRUE,Wholly Owned,NetJets equivalent
+GVH001,GlobalVentures Holdings Inc.,GVBT001,GlobalVentures Battery Technologies Inc.,100%,Common Stock,2000000,2016-03-01,TRUE,Wholly Owned,Duracell equivalent
+GVH001,GlobalVentures Holdings Inc.,GVPT001,GlobalVentures Paint Company,100%,Common Stock,1500000,2011-07-01,TRUE,Wholly Owned,Benjamin Moore equivalent
+GVH001,GlobalVentures Holdings Inc.,GVTR001,GlobalVentures Trailer Manufacturing LLC,100%,Membership Interest,100,2015-01-01,TRUE,Wholly Owned,Forest River equivalent
+GVH001,GlobalVentures Holdings Inc.,GVMH001,GlobalVentures Media Holdings Inc.,100%,Common Stock,500000,1977-06-01,TRUE,Wholly Owned,Media holding company
+GVH001,GlobalVentures Holdings Inc.,GVIM001,GlobalVentures Investment Management LLC,100%,Membership Interest,100,1970-01-01,TRUE,Wholly Owned,Investment management arm
+GVI001,GlobalVentures Insurance Company,GVUK001,GlobalVentures Insurance UK Ltd,100%,Ordinary Shares,1000000,2012-09-01,TRUE,Wholly Owned,UK insurance subsidiary
+GVM001,GlobalVentures Manufacturing Group Inc.,GVDE001,GlobalVentures Manufacturing GmbH,100%,Shares,25000,2014-03-01,TRUE,Wholly Owned,German manufacturing
+GVE001,GlobalVentures Energy Holdings LLC,GVCA001,GlobalVentures Energy Canada Inc.,100%,Common Shares,1000000,2013-06-01,TRUE,Wholly Owned,Canadian energy operations
+GVH001,GlobalVentures Holdings Inc.,GVJP001,GlobalVentures Trading Japan KK,49%,Common Stock,490000,2020-08-01,TRUE,Minority Investment,Strategic investment in Japan
+,Mitsuboshi Trading Co.,GVJP001,GlobalVentures Trading Japan KK,51%,Common Stock,510000,2020-08-01,FALSE,Majority Owner,Japanese partner maintains control

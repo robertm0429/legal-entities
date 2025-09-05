@@ -1,0 +1,30 @@
+Entity Code,Entity Name,Jurisdiction,Region,Filing Group,Tax Engine Code,Parent Tax Engine Code,Filing Hierarchy Level,VAT Id,Local Tax Number,Is Leader,Tax Type,Filing Frequency
+CBG001,ConsumerBrands Global Inc.,USA,North America,US Consolidated,US-CBG001,N/A,1,N/A,31-1234567,TRUE,Corporate Income Tax,Annual
+CBNA001,ConsumerBrands North America LLC,USA,North America,US Consolidated,US-CBNA001,US-CBG001,2,N/A,31-2345678,FALSE,Corporate Income Tax,Annual
+CBMF001,ConsumerBrands Manufacturing Ohio LLC,USA,North America,US Consolidated,US-CBMF001,US-CBNA001,3,N/A,31-3456789,FALSE,Corporate Income Tax,Annual
+CBMF001,ConsumerBrands Manufacturing Ohio LLC,Ohio,North America,OH State,OH-CBMF001,N/A,1,N/A,31-3456789,TRUE,State Income Tax,Annual
+CBBC001,ConsumerBrands Beauty Care Inc.,USA,North America,US Consolidated,US-CBBC001,US-CBG001,2,N/A,31-4567890,FALSE,Corporate Income Tax,Annual
+CBHC001,ConsumerBrands Home Care LLC,USA,North America,US Consolidated,US-CBHC001,US-CBG001,2,N/A,31-5678901,FALSE,Corporate Income Tax,Annual
+CBEU001,ConsumerBrands Europe SA,Switzerland,Europe,CH Standalone,CH-CBEU001,N/A,1,CHE-123.456.789,123.456.789,TRUE,Corporate Income Tax,Annual
+CBUK001,ConsumerBrands UK Limited,United Kingdom,Europe,UK Group,UK-CBUK001,N/A,1,GB123456789,12345678,TRUE,Corporation Tax,Annual
+CBDE001,ConsumerBrands Deutschland GmbH,Germany,Europe,DE Standalone,DE-CBDE001,N/A,1,DE123456789,123/456/78901,TRUE,Corporate Income Tax,Annual
+CBDE001,ConsumerBrands Deutschland GmbH,Germany,Europe,DE VAT,DE-VAT-CBDE001,N/A,1,DE123456789,123456789,TRUE,VAT,Monthly
+CBFR001,ConsumerBrands France SAS,France,Europe,FR Standalone,FR-CBFR001,N/A,1,FR12345678901,12345678901,TRUE,Corporate Income Tax,Annual
+CBFR001,ConsumerBrands France SAS,France,Europe,FR VAT,FR-VAT-CBFR001,N/A,1,FR12345678901,12345678901,TRUE,VAT,Monthly
+CBAP001,ConsumerBrands Asia Pacific Pte Ltd,Singapore,Asia Pacific,SG Standalone,SG-CBAP001,N/A,1,N/A,123456789A,TRUE,Corporate Income Tax,Annual
+CBJP001,ConsumerBrands Japan K.K.,Japan,Asia Pacific,JP Standalone,JP-CBJP001,N/A,1,N/A,1234567890123,TRUE,Corporate Tax,Annual
+CBCN001,ConsumerBrands China Co. Ltd.,China,Asia Pacific,CN Standalone,CN-CBCN001,N/A,1,N/A,91110000123456789X,TRUE,Corporate Income Tax,Annual
+CBCN001,ConsumerBrands China Co. Ltd.,China,Asia Pacific,CN VAT,CN-VAT-CBCN001,N/A,1,N/A,91110000123456789X,TRUE,VAT,Monthly
+CBIN001,ConsumerBrands India Private Limited,India,Asia Pacific,IN Standalone,IN-CBIN001,N/A,1,29ABCDE1234F1Z5,ABCDE1234F,TRUE,Corporate Income Tax,Annual
+CBIN001,ConsumerBrands India Private Limited,India,Asia Pacific,IN GST,IN-GST-CBIN001,N/A,1,29ABCDE1234F1Z5,29ABCDE1234F1Z5,TRUE,GST,Monthly
+CBLA001,ConsumerBrands Latin America Ltda,Brazil,South America,BR Standalone,BR-CBLA001,N/A,1,N/A,12.345.678/0001-90,TRUE,Corporate Income Tax,Annual
+CBMX001,ConsumerBrands Manufacturing Mexico S.A. de C.V.,Mexico,North America,MX Standalone,MX-CBMX001,N/A,1,N/A,CBM870501ABC,TRUE,Corporate Income Tax,Annual
+CBMX001,ConsumerBrands Manufacturing Mexico S.A. de C.V.,Mexico,North America,MX VAT,MX-VAT-CBMX001,N/A,1,N/A,CBM870501ABC,TRUE,VAT,Monthly
+CBMFCN001,ConsumerBrands Manufacturing Guangzhou Ltd,China,Asia Pacific,CN Standalone,CN-CBMFCN001,CN-CBCN001,2,N/A,91440000987654321Y,FALSE,Corporate Income Tax,Annual
+CBIP001,ConsumerBrands IP Holdings B.V.,Netherlands,Europe,NL Standalone,NL-CBIP001,N/A,1,NL123456789B01,123456789,TRUE,Corporate Income Tax,Annual
+CBFIN001,ConsumerBrands Finance Luxembourg S.à r.l.,Luxembourg,Europe,LU Standalone,LU-CBFIN001,N/A,1,LU12345678,12345678,TRUE,Corporate Income Tax,Annual
+CBSS001,ConsumerBrands Shared Services Center LLC,Costa Rica,Central America,CR Standalone,CR-CBSS001,N/A,1,N/A,3-101-123456,TRUE,Corporate Income Tax,Annual
+CBINN001,ConsumerBrands Innovation LLC,USA,North America,US Consolidated,US-CBINN001,US-CBG001,2,N/A,31-6789012,FALSE,Corporate Income Tax,Annual
+CBSC001,ConsumerBrands Global Supply Chain Inc.,USA,North America,US Consolidated,US-CBSC001,US-CBG001,2,N/A,31-7890123,FALSE,Corporate Income Tax,Annual
+CBEC001,ConsumerBrands Digital Commerce LLC,USA,North America,US Consolidated,US-CBEC001,US-CBG001,2,N/A,31-8901234,FALSE,Corporate Income Tax,Annual
+CBVC001,ConsumerBrands Ventures Inc.,USA,North America,US Consolidated,US-CBVC001,US-CBG001,2,N/A,31-9012345,FALSE,Corporate Income Tax,Annual

@@ -1,0 +1,60 @@
+Entity Code,Entity Name,Attribute Name,Attribute Value,Value Type,Is Primary,Category,Effective Date,Comments
+GB001,The GlobalBeverage Company,Market Cap,250000000000,Number,TRUE,Financial,2024-12-31,Market capitalization in USD
+GB001,The GlobalBeverage Company,Stock Exchange,NYSE,Text,TRUE,Regulatory,1919-09-05,Listed on New York Stock Exchange
+GB001,The GlobalBeverage Company,Stock Ticker,GBC,Text,TRUE,Regulatory,1919-09-05,NYSE ticker symbol
+GB001,The GlobalBeverage Company,Daily Servings,1900000000,Number,TRUE,Operational,2024-12-31,Daily beverage servings globally
+GB001,The GlobalBeverage Company,Annual Revenue,43000000000,Number,TRUE,Financial,2024-12-31,Net operating revenues
+GB001,The GlobalBeverage Company,Total Employees,82500,Number,TRUE,Operational,2024-12-31,Global employee count
+GB001,The GlobalBeverage Company,Brand Portfolio,200,Number,TRUE,Business,2024-12-31,Total number of beverage brands
+GB001,The GlobalBeverage Company,Countries Served,200,Number,TRUE,Operational,2024-12-31,Countries and territories served
+GB001,The GlobalBeverage Company,Bottling Partners,225,Number,TRUE,Business,2024-12-31,Independent bottling partners globally
+GB001,The GlobalBeverage Company,Marketing Investment,4500000000,Number,TRUE,Financial,2024-12-31,Global marketing and advertising spend
+GB001,The GlobalBeverage Company,Sustainability Investment,1000000000,Number,TRUE,Financial,2024-12-31,Annual sustainability programs investment
+GBCON001,GlobalBeverage Concentrates LLC,Concentrate Production Volume,900000000,Number,TRUE,Operational,2024-12-31,Unit cases of concentrate annually in gallons
+GBCON001,GlobalBeverage Concentrates LLC,Manufacturing Plants,45,Number,TRUE,Operational,2024-12-31,Concentrate production facilities globally
+GBCON001,GlobalBeverage Concentrates LLC,Secret Formula Locations,3,Number,TRUE,Business,2024-12-31,Locations with access to core formula
+GBNAB001,GlobalBeverage North America Bottling LLC,Production Volume,5500000000,Number,TRUE,Operational,2024-12-31,Unit cases bottled annually
+GBNAB001,GlobalBeverage North America Bottling LLC,Bottling Plants,95,Number,TRUE,Operational,2024-12-31,Company-owned bottling facilities
+GBNAB001,GlobalBeverage North America Bottling LLC,Distribution Centers,430,Number,TRUE,Operational,2024-12-31,Distribution points in North America
+GBNAB001,GlobalBeverage North America Bottling LLC,Vending Machines,750000,Number,TRUE,Operational,2024-12-31,Vending machines operated
+GBNAB001,GlobalBeverage North America Bottling LLC,Coolers Deployed,3000000,Number,TRUE,Operational,2024-12-31,Coolers and dispensers in market
+GBBM001,GlobalBeverage Brand Marketing Inc.,Advertising Spend,4000000000,Number,TRUE,Financial,2024-12-31,Global advertising expenditure
+GBBM001,GlobalBeverage Brand Marketing Inc.,Olympic Sponsorships,95,Number,TRUE,Business,2024-12-31,Years of Olympic Games sponsorship
+GBBM001,GlobalBeverage Brand Marketing Inc.,FIFA Sponsorships,30,Number,TRUE,Business,2024-12-31,Years of FIFA World Cup sponsorship
+GBBM001,GlobalBeverage Brand Marketing Inc.,Digital Engagement,150000000,Number,TRUE,Business,2024-12-31,Social media followers across platforms
+GBMX001,GlobalBeverage Mexico S.A. de C.V.,Production Volume,3200000000,Number,TRUE,Operational,2024-12-31,Unit cases bottled annually in Mexico
+GBMX001,GlobalBeverage Mexico S.A. de C.V.,Market Share,67%,Text,TRUE,Business,2024-12-31,Mexican soft drink market share
+GBMX001,GlobalBeverage Mexico S.A. de C.V.,Per Capita Consumption,730,Number,TRUE,Business,2024-12-31,Servings per person per year
+GBBR001,GlobalBeverage Brasil Ltda.,Production Volume,2800000000,Number,TRUE,Operational,2024-12-31,Unit cases bottled annually in Brazil
+GBBR001,GlobalBeverage Brasil Ltda.,Market Share,45%,Text,TRUE,Business,2024-12-31,Brazilian soft drink market share
+GBBR001,GlobalBeverage Brasil Ltda.,Distribution Points,1200000,Number,TRUE,Operational,2024-12-31,Retail outlets served
+GBEU001,GlobalBeverage Europe GmbH,Production Volume,4500000000,Number,TRUE,Operational,2024-12-31,Unit cases bottled annually in Europe
+GBEU001,GlobalBeverage Europe GmbH,Bottling Plants,65,Number,TRUE,Operational,2024-12-31,European bottling facilities
+GBEU001,GlobalBeverage Europe GmbH,Employee Count,25000,Number,TRUE,Operational,2024-12-31,European employees
+GBJP001,GlobalBeverage Japan K.K.,Production Volume,1200000000,Number,TRUE,Operational,2024-12-31,Unit cases bottled annually in Japan
+GBJP001,GlobalBeverage Japan K.K.,Vending Machines,950000,Number,TRUE,Operational,2024-12-31,Vending machines in Japan
+GBJP001,GlobalBeverage Japan K.K.,Product SKUs,350,Number,TRUE,Business,2024-12-31,Product variations in Japan market
+GBCN001,GlobalBeverage China Limited,Production Volume,4200000000,Number,TRUE,Operational,2024-12-31,Unit cases bottled annually in China
+GBCN001,GlobalBeverage China Limited,Market Growth Rate,12%,Text,TRUE,Business,2024-12-31,Annual volume growth rate
+GBCN001,GlobalBeverage China Limited,Cities Served,400,Number,TRUE,Operational,2024-12-31,Chinese cities with distribution
+GBIN001,GlobalBeverage India Private Limited,Production Volume,2100000000,Number,TRUE,Operational,2024-12-31,Unit cases bottled annually in India
+GBIN001,GlobalBeverage India Private Limited,Distribution Outlets,2500000,Number,TRUE,Operational,2024-12-31,Retail outlets served in India
+GBIN001,GlobalBeverage India Private Limited,Rural Penetration,65%,Text,TRUE,Business,2024-12-31,Rural market coverage percentage
+GBSE001,GlobalBeverage Sports & Energy Inc.,Market Share Energy,25%,Text,TRUE,Business,2024-12-31,Global energy drink market share
+GBSE001,GlobalBeverage Sports & Energy Inc.,Annual Volume,800000000,Number,TRUE,Operational,2024-12-31,Unit cases of sports and energy drinks
+GBWE001,GlobalBeverage Water & Enhanced LLC,Market Share Water,18%,Text,TRUE,Business,2024-12-31,US bottled water market share
+GBWE001,GlobalBeverage Water & Enhanced LLC,Annual Volume,1200000000,Number,TRUE,Operational,2024-12-31,Unit cases of water and enhanced beverages
+GBFS001,GlobalBeverage Fountain Systems LLC,Fountain Accounts,1000000,Number,TRUE,Business,2024-12-31,Restaurant and foodservice accounts
+GBFS001,GlobalBeverage Fountain Systems LLC,Fountain Volume,2000000000,Number,TRUE,Operational,2024-12-31,Gallons of fountain syrup annually
+GBFS001,GlobalBeverage Fountain Systems LLC,QSR Partnerships,50,Number,TRUE,Business,2024-12-31,Quick service restaurant chains
+GBSC001,GlobalBeverage Supply Chain Services LLC,Supplier Network,3500,Number,TRUE,Operational,2024-12-31,Global supplier relationships
+GBSC001,GlobalBeverage Supply Chain Services LLC,Sustainability Score,85,Number,TRUE,Business,2024-12-31,Supplier sustainability scorecard
+GBIS001,GlobalBeverage Ingredient Sourcing Corp,Sugar Volume,3500000,Number,TRUE,Operational,2024-12-31,Tons of sugar and sweeteners annually
+GBIS001,GlobalBeverage Ingredient Sourcing Corp,Flavor Suppliers,125,Number,TRUE,Operational,2024-12-31,Natural and artificial flavor suppliers
+GBII001,GlobalBeverage Bottling Investments Inc.,Investment Portfolio,35000000000,Number,TRUE,Financial,2024-12-31,Strategic bottling partner investments
+GBII001,GlobalBeverage Bottling Investments Inc.,Bottling Partner Stakes,45,Number,TRUE,Business,2024-12-31,Equity stakes in bottling partners
+GBIV001,GlobalBeverage Innovation & Ventures LLC,Startup Investments,85,Number,TRUE,Business,2024-12-31,Venture capital portfolio companies
+GBIV001,GlobalBeverage Innovation & Ventures LLC,Innovation Centers,15,Number,TRUE,Operational,2024-12-31,Global innovation facilities
+GBIP001,GlobalBeverage IP Holdings S.à r.l.,Trademark Portfolio,3500,Number,TRUE,IP,2024-12-31,Global trademark registrations
+GBIP001,GlobalBeverage IP Holdings S.à r.l.,Patent Portfolio,850,Number,TRUE,IP,2024-12-31,Active beverage technology patents
+GBIP001,GlobalBeverage IP Holdings S.à r.l.,Brand Valuation,85000000000,Number,TRUE,Financial,2024-12-31,Total brand portfolio value

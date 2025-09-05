@@ -1,0 +1,18 @@
+Creditor Entity Code,Creditor Entity Name,Debtor Entity Code,Debtor Entity Name,Transaction Type,Principal Amount,Currency,Interest Rate,Effective Date,Maturity Date,Purpose,Filing Period,Status
+TGFN001,TechGlobal Finance B.V.,TGUS001,TechGlobal USA Inc.,Intercompany Loan,50000000,USD,3.5%,2018-01-01,2028-01-01,Working capital and expansion financing,2024,Active
+TGFN001,TechGlobal Finance B.V.,TGUK001,TechGlobal UK Limited,Intercompany Loan,25000000,GBP,3.2%,2018-06-01,2028-06-01,UK market expansion financing,2024,Active
+TGFN001,TechGlobal Finance B.V.,TGDE001,TechGlobal Germany GmbH,Intercompany Loan,20000000,EUR,3.0%,2019-01-01,2029-01-01,DACH region expansion,2024,Active
+TGFN001,TechGlobal Finance B.V.,TGJP001,TechGlobal Japan K.K.,Intercompany Loan,3000000000,JPY,2.8%,2019-06-01,2029-06-01,Japan market development,2024,Active
+TGFN001,TechGlobal Finance B.V.,TGCN001,TechGlobal China Co. Ltd.,Intercompany Loan,100000000,CNY,4.2%,2020-01-01,2030-01-01,China operations expansion,2024,Active
+TGIP001,TechGlobal IP Holdings Limited,TGUS001,TechGlobal USA Inc.,IP License Fee,15000000,USD,N/A,2016-01-01,2026-12-31,Software licensing agreement,2024,Active
+TGIP001,TechGlobal IP Holdings Limited,TGUK001,TechGlobal UK Limited,IP License Fee,8000000,GBP,N/A,2016-06-01,2026-12-31,Software licensing agreement,2024,Active
+TGIP001,TechGlobal IP Holdings Limited,TGDE001,TechGlobal Germany GmbH,IP License Fee,6000000,EUR,N/A,2017-01-01,2027-12-31,Software licensing agreement,2024,Active
+TGIP001,TechGlobal IP Holdings Limited,TGJP001,TechGlobal Japan K.K.,IP License Fee,800000000,JPY,N/A,2018-01-01,2028-12-31,Software licensing agreement,2024,Active
+TGIP001,TechGlobal IP Holdings Limited,TGCN001,TechGlobal China Co. Ltd.,IP License Fee,30000000,CNY,N/A,2018-06-01,2028-12-31,Software licensing agreement,2024,Active
+TGSS001,TechGlobal Shared Services Pvt Ltd,TGUS001,TechGlobal USA Inc.,Management Services,5000000,USD,N/A,2020-01-01,2025-12-31,IT and finance shared services,2024,Active
+TGSS001,TechGlobal Shared Services Pvt Ltd,TGUK001,TechGlobal UK Limited,Management Services,2000000,GBP,N/A,2020-01-01,2025-12-31,IT and finance shared services,2024,Active
+TGSS001,TechGlobal Shared Services Pvt Ltd,TGDE001,TechGlobal Germany GmbH,Management Services,1500000,EUR,N/A,2020-01-01,2025-12-31,IT and finance shared services,2024,Active
+TGSS001,TechGlobal Shared Services Pvt Ltd,TGJP001,TechGlobal Japan K.K.,Management Services,300000000,JPY,N/A,2020-06-01,2025-12-31,IT and finance shared services,2024,Active
+TGRD001,TechGlobal Research Labs Inc.,TGHI001,TechGlobal Holdings Inc.,R&D Cost Sharing,25000000,USD,N/A,2017-01-01,2027-12-31,Global R&D cost sharing agreement,2024,Active
+TGRE001,TechGlobal Real Estate Holdings LLC,TGUS001,TechGlobal USA Inc.,Property Lease,2000000,USD,N/A,2019-01-01,2029-12-31,San Francisco office lease,2024,Active
+TGRE001,TechGlobal Real Estate Holdings LLC,TGUK001,TechGlobal UK Limited,Property Lease,1200000,GBP,N/A,2019-06-01,2029-12-31,London office lease,2024,Active

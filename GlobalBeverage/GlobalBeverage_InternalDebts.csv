@@ -1,0 +1,34 @@
+Creditor Entity Code,Creditor Entity Name,Debtor Entity Code,Debtor Entity Name,Transaction Type,Principal Amount,Currency,Interest Rate,Effective Date,Maturity Date,Purpose,Filing Period,Status
+GBCON001,GlobalBeverage Concentrates LLC,GBNAB001,GlobalBeverage North America Bottling LLC,Concentrate Sales,8000000000,USD,N/A,Ongoing,N/A,Annual concentrate and syrup sales,2024,Active
+GBCON001,GlobalBeverage Concentrates LLC,GBMX001,GlobalBeverage Mexico S.A. de C.V.,Concentrate Sales,2500000000,USD,N/A,Ongoing,N/A,Mexican bottling concentrate sales,2024,Active
+GBCON001,GlobalBeverage Concentrates LLC,GBBR001,GlobalBeverage Brasil Ltda.,Concentrate Sales,3000000000,USD,N/A,Ongoing,N/A,Brazilian bottling concentrate sales,2024,Active
+GBCON001,GlobalBeverage Concentrates LLC,GBEU001,GlobalBeverage Europe GmbH,Concentrate Sales,4500000000,USD,N/A,Ongoing,N/A,European bottling concentrate sales,2024,Active
+GBCON001,GlobalBeverage Concentrates LLC,GBJP001,GlobalBeverage Japan K.K.,Concentrate Sales,2800000000,USD,N/A,Ongoing,N/A,Japanese bottling concentrate sales,2024,Active
+GBCON001,GlobalBeverage Concentrates LLC,GBCN001,GlobalBeverage China Limited,Concentrate Sales,4000000000,USD,N/A,Ongoing,N/A,Chinese bottling concentrate sales,2024,Active
+GBCON001,GlobalBeverage Concentrates LLC,GBIN001,GlobalBeverage India Private Limited,Concentrate Sales,1800000000,USD,N/A,Ongoing,N/A,Indian bottling concentrate sales,2024,Active
+GBIP001,GlobalBeverage IP Holdings S.à r.l.,GBNAB001,GlobalBeverage North America Bottling LLC,Trademark License,500000000,USD,N/A,Ongoing,N/A,Trademark licensing fees,2024,Active
+GBIP001,GlobalBeverage IP Holdings S.à r.l.,GBMX001,GlobalBeverage Mexico S.A. de C.V.,Trademark License,200000000,USD,N/A,Ongoing,N/A,Mexican trademark licensing,2024,Active
+GBIP001,GlobalBeverage IP Holdings S.à r.l.,GBBR001,GlobalBeverage Brasil Ltda.,Trademark License,250000000,USD,N/A,Ongoing,N/A,Brazilian trademark licensing,2024,Active
+GBIP001,GlobalBeverage IP Holdings S.à r.l.,GBEU001,GlobalBeverage Europe GmbH,Trademark License,350000000,USD,N/A,Ongoing,N/A,European trademark licensing,2024,Active
+GBIP001,GlobalBeverage IP Holdings S.à r.l.,GBJP001,GlobalBeverage Japan K.K.,Trademark License,300000000,USD,N/A,Ongoing,N/A,Japanese trademark licensing,2024,Active
+GBIP001,GlobalBeverage IP Holdings S.à r.l.,GBCN001,GlobalBeverage China Limited,Trademark License,400000000,USD,N/A,Ongoing,N/A,Chinese trademark licensing,2024,Active
+GBIP001,GlobalBeverage IP Holdings S.à r.l.,GBIN001,GlobalBeverage India Private Limited,Trademark License,180000000,USD,N/A,Ongoing,N/A,Indian trademark licensing,2024,Active
+GBBM001,GlobalBeverage Brand Marketing Inc.,GBNAB001,GlobalBeverage North America Bottling LLC,Marketing Services,1200000000,USD,N/A,Ongoing,N/A,Marketing and advertising services,2024,Active
+GBBM001,GlobalBeverage Brand Marketing Inc.,GBMX001,GlobalBeverage Mexico S.A. de C.V.,Marketing Services,300000000,USD,N/A,Ongoing,N/A,Mexican marketing services,2024,Active
+GBBM001,GlobalBeverage Brand Marketing Inc.,GBBR001,GlobalBeverage Brasil Ltda.,Marketing Services,400000000,USD,N/A,Ongoing,N/A,Brazilian marketing services,2024,Active
+GBBM001,GlobalBeverage Brand Marketing Inc.,GBEU001,GlobalBeverage Europe GmbH,Marketing Services,500000000,USD,N/A,Ongoing,N/A,European marketing services,2024,Active
+GBBM001,GlobalBeverage Brand Marketing Inc.,GBJP001,GlobalBeverage Japan K.K.,Marketing Services,350000000,USD,N/A,Ongoing,N/A,Japanese marketing services,2024,Active
+GBBM001,GlobalBeverage Brand Marketing Inc.,GBCN001,GlobalBeverage China Limited,Marketing Services,450000000,USD,N/A,Ongoing,N/A,Chinese marketing services,2024,Active
+GBSC001,GlobalBeverage Supply Chain Services LLC,GBNAB001,GlobalBeverage North America Bottling LLC,Supply Chain Services,800000000,USD,N/A,Ongoing,N/A,Supply chain management services,2024,Active
+GBSC001,GlobalBeverage Supply Chain Services LLC,GBMX001,GlobalBeverage Mexico S.A. de C.V.,Supply Chain Services,200000000,USD,N/A,Ongoing,N/A,Mexican supply chain services,2024,Active
+GBSC001,GlobalBeverage Supply Chain Services LLC,GBBR001,GlobalBeverage Brasil Ltda.,Supply Chain Services,250000000,USD,N/A,Ongoing,N/A,Brazilian supply chain services,2024,Active
+GBSC001,GlobalBeverage Supply Chain Services LLC,GBEU001,GlobalBeverage Europe GmbH,Supply Chain Services,300000000,USD,N/A,Ongoing,N/A,European supply chain services,2024,Active
+GBIS001,GlobalBeverage Ingredient Sourcing Corp,GBCON001,GlobalBeverage Concentrates LLC,Ingredient Supply,5000000000,USD,N/A,Ongoing,N/A,Sugar high fructose corn syrup and other ingredients,2024,Active
+GBIS001,GlobalBeverage Ingredient Sourcing Corp,GBEB001,GlobalBeverage European Bottling B.V.,Ingredient Supply,1000000000,USD,N/A,Ongoing,N/A,European ingredient supply,2024,Active
+GB001,The GlobalBeverage Company,GBII001,GlobalBeverage Bottling Investments Inc.,Strategic Investment,25000000000,USD,2.5%,Ongoing,N/A,Bottling partner equity investments,2024,Active
+GBEM001,GlobalBeverage Equipment Manufacturing Ltd,GBNAB001,GlobalBeverage North America Bottling LLC,Equipment Sales,300000000,USD,N/A,Ongoing,N/A,Bottling equipment and machinery,2024,Active
+GBEM001,GlobalBeverage Equipment Manufacturing Ltd,GBMX001,GlobalBeverage Mexico S.A. de C.V.,Equipment Sales,100000000,USD,N/A,Ongoing,N/A,Mexican equipment sales,2024,Active
+GBEM001,GlobalBeverage Equipment Manufacturing Ltd,GBBR001,GlobalBeverage Brasil Ltda.,Equipment Sales,150000000,USD,N/A,Ongoing,N/A,Brazilian equipment sales,2024,Active
+GBFS001,GlobalBeverage Fountain Systems LLC,Third Party Restaurants,Restaurant Chains,Fountain Syrup Sales,3000000000,USD,N/A,Ongoing,N/A,Fountain syrup sales to restaurants,2024,Active
+GBSS001,GlobalBeverage Shared Services S.A.,GBLA001,GlobalBeverage Latin America Inc.,Shared Services,300000000,USD,N/A,Ongoing,N/A,Finance HR IT services for LATAM,2024,Active
+GBSS001,GlobalBeverage Shared Services S.A.,GBBR001,GlobalBeverage Brasil Ltda.,Shared Services,150000000,USD,N/A,Ongoing,N/A,Brazilian shared services,2024,Active

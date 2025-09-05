@@ -1,0 +1,34 @@
+Owner Entity Code,Owner Entity Name,Owned Entity Code,Owned Entity Name,Percent Owned,Share Class,Shares Held,Entry As Shareholder Date,Is Primary Owner,Ownership Type,Comments
+,Public Shareholders,GB001,The GlobalBeverage Company,78%,Common Stock,3900000000,1919-09-05,TRUE,Public Float,NYSE listed - ticker GBC
+,Institutional Investors,GB001,The GlobalBeverage Company,20%,Common Stock,1000000000,Various,FALSE,Institutional,Warren Buffett Berkshire and others
+,Management & Employees,GB001,The GlobalBeverage Company,2%,Common Stock,100000000,Various,FALSE,Employee Ownership,Management incentive plans
+GB001,The GlobalBeverage Company,GBNA001,GlobalBeverage North America Inc.,100%,Common Stock,100000000,1920-06-01,TRUE,Wholly Owned,North America concentrate operations
+GB001,The GlobalBeverage Company,GBLA001,GlobalBeverage Latin America Inc.,100%,Common Stock,50000000,1942-03-15,TRUE,Wholly Owned,Latin America concentrate operations
+GB001,The GlobalBeverage Company,GBEMEA001,GlobalBeverage EMEA Ltd,100%,Ordinary Shares,10000000,1945-09-01,TRUE,Wholly Owned,EMEA concentrate operations
+GB001,The GlobalBeverage Company,GBAP001,GlobalBeverage Asia Pacific Ltd,100%,Ordinary Shares,5000000,1965-04-01,TRUE,Wholly Owned,Asia Pacific concentrate operations
+GB001,The GlobalBeverage Company,GBCON001,GlobalBeverage Concentrates LLC,100%,Membership Interest,100,1920-01-01,TRUE,Wholly Owned,Global concentrate manufacturing
+GB001,The GlobalBeverage Company,GBNAB001,GlobalBeverage North America Bottling LLC,100%,Membership Interest,100,1899-07-01,TRUE,Wholly Owned,Company-owned bottling North America
+GB001,The GlobalBeverage Company,GBEB001,GlobalBeverage European Bottling B.V.,100%,Shares,1000,1968-01-15,TRUE,Wholly Owned,Company-owned European bottling
+GB001,The GlobalBeverage Company,GBBM001,GlobalBeverage Brand Marketing Inc.,100%,Common Stock,10000000,1985-11-01,TRUE,Wholly Owned,Global brand marketing
+GB001,The GlobalBeverage Company,GBSE001,GlobalBeverage Sports & Energy Inc.,100%,Common Stock,5000000,2001-08-01,TRUE,Wholly Owned,Sports and energy drinks
+GB001,The GlobalBeverage Company,GBWE001,GlobalBeverage Water & Enhanced LLC,100%,Membership Interest,100,1999-06-01,TRUE,Wholly Owned,Water and enhanced beverages
+GB001,The GlobalBeverage Company,GBCT001,GlobalBeverage Coffee & Tea Company,100%,Common Stock,2000000,2012-04-01,TRUE,Wholly Owned,Coffee and tea RTD beverages
+GB001,The GlobalBeverage Company,GBJS001,GlobalBeverage Juice & Smoothies Inc.,100%,Common Stock,3000000,1960-03-01,TRUE,Wholly Owned,Juice and smoothie brands
+GBNA001,GlobalBeverage North America Inc.,GBMX001,GlobalBeverage Mexico S.A. de C.V.,100%,Common Stock,100000000,1926-12-01,TRUE,Wholly Owned,Mexican bottling operations
+GBLA001,GlobalBeverage Latin America Inc.,GBBR001,GlobalBeverage Brasil Ltda.,100%,Quotas,10000000,1939-09-01,TRUE,Wholly Owned,Brazilian bottling operations
+GBEMEA001,GlobalBeverage EMEA Ltd,GBEU001,GlobalBeverage Europe GmbH,100%,Shares,25000,1929-05-01,TRUE,Wholly Owned,German and Central Europe ops
+GBAP001,GlobalBeverage Asia Pacific Ltd,GBJP001,GlobalBeverage Japan K.K.,100%,Common Stock,1000000,1957-07-01,TRUE,Wholly Owned,Japanese bottling operations
+GBAP001,GlobalBeverage Asia Pacific Ltd,GBCN001,GlobalBeverage China Limited,100%,Shares,50000000,1979-12-01,TRUE,Wholly Owned,Chinese bottling operations
+GBAP001,GlobalBeverage Asia Pacific Ltd,GBIN001,GlobalBeverage India Private Limited,100%,Equity Shares,100000,1993-04-01,TRUE,Wholly Owned,Indian bottling operations
+GB001,The GlobalBeverage Company,GBII001,GlobalBeverage Bottling Investments Inc.,100%,Common Stock,1000000,1980-01-01,TRUE,Wholly Owned,Strategic bottling investments
+GB001,The GlobalBeverage Company,GBSC001,GlobalBeverage Supply Chain Services LLC,100%,Membership Interest,100,2005-02-01,TRUE,Wholly Owned,Global supply chain services
+GB001,The GlobalBeverage Company,GBIV001,GlobalBeverage Innovation & Ventures LLC,100%,Membership Interest,100,2007-09-01,TRUE,Wholly Owned,Innovation and venture investments
+GB001,The GlobalBeverage Company,GBDC001,GlobalBeverage Digital Commerce Inc.,100%,Common Stock,1000000,2018-01-01,TRUE,Wholly Owned,Digital commerce platform
+GB001,The GlobalBeverage Company,GBIS001,GlobalBeverage Ingredient Sourcing Corp,100%,Common Stock,500000,1950-06-01,TRUE,Wholly Owned,Ingredient sourcing
+GBLA001,GlobalBeverage Latin America Inc.,GBSS001,GlobalBeverage Shared Services S.A.,100%,Common Stock,1000000,2009-05-01,TRUE,Wholly Owned,Argentina shared services
+GBEMEA001,GlobalBeverage EMEA Ltd,GBEM001,GlobalBeverage Equipment Manufacturing Ltd,100%,Ordinary Shares,100000,1960-08-01,TRUE,Wholly Owned,Irish equipment manufacturing
+GB001,The GlobalBeverage Company,GBFS001,GlobalBeverage Fountain Systems LLC,100%,Membership Interest,100,1955-03-01,TRUE,Wholly Owned,Fountain syrup systems
+GB001,The GlobalBeverage Company,GBIP001,GlobalBeverage IP Holdings S.à r.l.,100%,Shares,1000,2000-01-01,TRUE,Wholly Owned,Luxembourg IP holding company
+GB001,The GlobalBeverage Company,GBAF001,GlobalBeverage Africa Holdings Ltd,65%,Ordinary Shares,650000,2014-11-01,TRUE,Majority JV,African operations joint venture
+,SAB Miller Africa Holdings,GBAF001,GlobalBeverage Africa Holdings Ltd,35%,Ordinary Shares,350000,2014-11-01,FALSE,JV Partner,Local African bottling partner
+GB001,The GlobalBeverage Company,GBSI001,GlobalBeverage Sustainability Inc.,100%,Common Stock,100000,2015-06-01,TRUE,Wholly Owned,Sustainability programs
